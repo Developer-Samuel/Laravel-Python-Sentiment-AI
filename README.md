@@ -1,6 +1,6 @@
 ## About Project
 
-It is a project built with Laravel, Vue.js, and Tailwind that allows you to securely export a PDF file from input data, ensuring that the data is never saved, only downloaded.
+It is a project built with Laravel, Python, Vue.js, and Tailwind that implements Sentiment AI based on text input. The system evaluates the text and classifies it as positive, neutral, or negative.
 
 ## Requirements
 
